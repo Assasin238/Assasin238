@@ -1,3 +1,7 @@
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=sans-serif&size=50&duration=4000&pause=500&color=808D80&center=true&vCenter=true&width=435&lines=HI+%3C3;I'm+Assasin238;Pe%C5%A5ko" alt="Typing SVG" /></a>
+</h1>
+
 # 💫 About Me:
 👨‍🎓 IT student focusing on web development & design<br>
 💻 Creating practical and well-designed web projects<br>
