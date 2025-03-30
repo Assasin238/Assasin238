@@ -6,7 +6,6 @@
 👨‍🎓 IT student focusing on web development & design<br>
 💻 Creating practical and well-designed web projects<br>
 🕹️ Developing web-based games as school projects<br>
-🌍 Exploring multilingual support, authentication & UX improvements
 
 
 ## 🌐 Socials:
